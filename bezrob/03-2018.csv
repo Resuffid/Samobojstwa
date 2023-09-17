@@ -1,0 +1,398 @@
+Województwa,Stopa bezrobocia w %
+POLSKA                                                                ,6.6
+Woj. DOLNOŚLĄSKIE                                                     ,5.8
+      bolesławiecki                                                   ,4.5
+      dzierżoniowski                                                  ,8.1
+      głogowski                                                       ,9.7
+      górowski                                                        ,16.1
+      jaworski                                                        ,13.9
+      jeleniogórski                                                   ,9.2
+      kamiennogórski                                                  ,7.4
+      kłodzki                                                         ,12.2
+      legnicki                                                        ,11.8
+      lubański                                                        ,9.1
+      lubiński                                                        ,5.1
+      lwówecki                                                        ,12.8
+      milicki                                                         ,7.2
+      oleśnicki                                                       ,6.4
+      oławski                                                         ,5.8
+      polkowicki                                                      ,4.4
+      strzeliński                                                     ,11.2
+      średzki                                                         ,6.2
+      świdnicki                                                       ,6.9
+      trzebnicki                                                      ,6.6
+      wałbrzyski                                                      ,15.0
+      wołowski                                                        ,12.0
+      wrocławski                                                      ,2.2
+      ząbkowicki                                                      ,12.2
+      zgorzelecki                                                     ,5.4
+      złotoryjski                                                     ,15.8
+      m. Jelenia Góra                                                 ,3.3
+      m. Legnica                                                      ,5.6
+      m. Wrocław                                                      ,2.2
+      m. Wałbrzych                                                    ,7.3
+Woj. KUJAWSKO-POMORSKIE                                               ,9.9
+      aleksandrowski                                                  ,14.0
+      brodnicki                                                       ,7.6
+      bydgoski                                                        ,6.5
+      chełmiński                                                      ,13.5
+      golubsko-dobrzyński                                             ,10.9
+      grudziądzki                                                     ,14.6
+      inowrocławski                                                   ,14.5
+      lipnowski                                                       ,17.4
+      mogileński                                                      ,11.8
+      nakielski                                                       ,13.5
+      radziejowski                                                    ,17.7
+      rypiński                                                        ,11.2
+      sępoleński                                                      ,13.5
+      świecki                                                         ,8.9
+      toruński                                                        ,12.6
+      tucholski                                                       ,12.8
+      wąbrzeski                                                       ,13.3
+      włocławski                                                      ,18.0
+      żniński                                                         ,12.2
+      m. Bydgoszcz                                                    ,3.9
+      m. Grudziądz                                                    ,10.8
+      m. Toruń                                                        ,5.1
+      m. Włocławek                                                    ,12.3
+Woj. LUBELSKIE                                                        ,8.7
+      bialski                                                         ,10.5
+      biłgorajski                                                     ,5.6
+      chełmski                                                        ,14.2
+      hrubieszowski                                                   ,13.9
+      janowski                                                        ,8.0
+      krasnostawski                                                   ,12.2
+      kraśnicki                                                       ,10.3
+      lubartowski                                                     ,12.0
+      lubelski                                                        ,7.4
+      łęczyński                                                       ,6.1
+      łukowski                                                        ,4.9
+      opolski                                                         ,9.5
+      parczewski                                                      ,8.3
+      puławski                                                        ,6.3
+      radzyński                                                       ,7.7
+      rycki                                                           ,9.1
+      świdnicki                                                       ,9.9
+      tomaszowski                                                     ,7.8
+      włodawski                                                       ,16.3
+      zamojski                                                        ,10.7
+      m. Biała Podlaska                                               ,10.9
+      m. Chełm                                                        ,12.2
+      m. Lublin                                                       ,6.1
+      m. Zamość                                                       ,10.7
+Woj. LUBUSKIE                                                         ,6.5
+      gorzowski                                                       ,4.9
+      krośnieński                                                     ,11.9
+      międzyrzecki                                                    ,12.8
+      nowosolski                                                      ,10.3
+      słubicki                                                        ,3.0
+      strzelecko-drezdenecki                                          ,11.4
+      sulęciński                                                      ,7.3
+      świebodziński                                                   ,4.9
+      zielonogórski                                                   ,7.1
+      żagański                                                        ,11.1
+      żarski                                                          ,6.5
+      wschowski                                                       ,8.4
+      m. Gorzów Wielkopolski                                          ,2.8
+      m. Zielona Góra                                                 ,3.5
+Woj. ŁÓDZKIE                                                          ,6.8
+      bełchatowski                                                    ,5.8
+      kutnowski                                                       ,9.8
+      łaski                                                           ,9.3
+      łęczycki                                                        ,7.8
+      łowicki                                                         ,5.9
+      łódzki wschodni                                                 ,8.0
+      opoczyński                                                      ,6.3
+      pabianicki                                                      ,7.6
+      pajęczański                                                     ,7.9
+      piotrkowski                                                     ,6.4
+      poddębicki                                                      ,7.3
+      radomszczański                                                  ,7.2
+      rawski                                                          ,4.2
+      sieradzki                                                       ,6.4
+      skierniewicki                                                   ,4.5
+      tomaszowski                                                     ,7.6
+      wieluński                                                       ,7.3
+      wieruszowski                                                    ,4.9
+      zduńskowolski                                                   ,7.9
+      zgierski                                                        ,7.8
+      brzeziński                                                      ,7.3
+      m. Łódź                                                         ,6.4
+      m. Piotrków Trybunalski                                         ,6.1
+      m. Skierniewice                                                 ,6.2
+Woj. MAŁOPOLSKIE                                                      ,5.4
+      bocheński                                                       ,5.2
+      brzeski                                                         ,6.4
+      chrzanowski                                                     ,8.7
+      dąbrowski                                                       ,12.4
+      gorlicki                                                        ,6.6
+      krakowski                                                       ,4.8
+      limanowski                                                      ,8.6
+      miechowski                                                      ,5.4
+      myślenicki                                                      ,3.2
+      nowosądecki                                                     ,8.9
+      nowotarski                                                      ,7.1
+      olkuski                                                         ,8.1
+      oświęcimski                                                     ,6.2
+      proszowicki                                                     ,7.0
+      suski                                                           ,4.8
+      tarnowski                                                       ,7.9
+      tatrzański                                                      ,10.0
+      wadowicki                                                       ,5.8
+      wielicki                                                        ,5.4
+      m. Kraków                                                       ,2.7
+      m. Nowy Sącz                                                    ,4.1
+      m. Tarnów                                                       ,5.9
+Woj. MAZOWIECKIE                                                      ,5.6
+      białobrzeski                                                    ,8.2
+      ciechanowski                                                    ,10.8
+      garwoliński                                                     ,10.0
+      gostyniński                                                     ,16.1
+      grodziski                                                       ,3.6
+      grójecki                                                        ,2.5
+      kozienicki                                                      ,11.3
+      legionowski                                                     ,7.9
+      lipski                                                          ,11.1
+      łosicki                                                         ,6.3
+      makowski                                                        ,17.7
+      miński                                                          ,5.9
+      mławski                                                         ,7.2
+      nowodworski                                                     ,6.3
+      ostrołęcki                                                      ,11.8
+      ostrowski                                                       ,10.4
+      otwocki                                                         ,4.9
+      piaseczyński                                                    ,4.4
+      płocki                                                          ,13.1
+      płoński                                                         ,10.5
+      pruszkowski                                                     ,4.1
+      przasnyski                                                      ,9.7
+      przysuski                                                       ,19.2
+      pułtuski                                                        ,13.9
+      radomski                                                        ,18.9
+      siedlecki                                                       ,6.5
+      sierpecki                                                       ,17.7
+      sochaczewski                                                    ,6.4
+      sokołowski                                                      ,6.5
+      szydłowiecki                                                    ,25.9
+      warszawski zachodni                                             ,2.3
+      węgrowski                                                       ,7.4
+      wołomiński                                                      ,8.3
+      wyszkowski                                                      ,5.2
+      zwoleński                                                       ,12.0
+      żuromiński                                                      ,15.3
+      żyrardowski                                                     ,11.1
+      m. Ostrołęka                                                    ,10.3
+      m. Płock                                                        ,7.3
+      m. Radom                                                        ,13.1
+      m. Siedlce                                                      ,5.7
+      m. Warszawa                                                     ,1.9
+Woj. OPOLSKIE                                                ,7.0
+      brzeski                                                         ,9.4
+      głubczycki                                                      ,11.1
+      kędzierzyńsko-kozielski                                         ,8.6
+      kluczborski                                                     ,7.8
+      krapkowicki                                                     ,5.6
+      namysłowski                                                     ,8.3
+      nyski                                                           ,9.4
+      oleski                                                          ,4.6
+      opolski                                                      ,6.8
+      prudnicki                                                       ,9.5
+      strzelecki                                                      ,5.2
+      m. Opole                                          ,4.1
+Woj. PODKARPACKIE                                                     ,9.7
+      bieszczadzki                                                    ,15.4
+      brzozowski                                                      ,16.1
+      dębicki                                                         ,6.8
+      jarosławski                                                     ,13.3
+      jasielski                                                       ,11.0
+      kolbuszowski                                                    ,9.7
+      krośnieński                                                     ,7.2
+      leżajski                                                        ,14.5
+      lubaczowski                                                     ,9.8
+      łańcucki                                                        ,11.6
+      mielecki                                                        ,5.5
+      niżański                                                        ,17.6
+      przemyski                                                       ,14.6
+      przeworski                                                      ,13.3
+      ropczycko-sędziszowski                                          ,12.3
+      rzeszowski                                                      ,9.4
+      sanocki                                                         ,7.4
+      stalowowolski                                                   ,6.1
+      strzyżowski                                                     ,15.1
+      tarnobrzeski                                                    ,8.1
+      leski                                                           ,17.7
+      m. Krosno                                                       ,3.3
+      m. Przemyśl                                                     ,12.4
+      m. Rzeszów                                                      ,5.7
+      m. Tarnobrzeg                                                   ,9.8
+Woj. PODLASKIE                                                        ,8.6
+      augustowski                                                     ,10.3
+      białostocki                                                     ,10.1
+      bielski                                                         ,6.1
+      grajewski                                                       ,14.2
+      hajnowski                                                       ,8.1
+      kolneński                                                       ,15.1
+      łomżyński                                                       ,8.3
+      moniecki                                                        ,8.0
+      sejneński                                                       ,13.5
+      siemiatycki                                                     ,8.0
+      sokólski                                                        ,11.5
+      suwalski                                                        ,4.7
+      wysokomazowiecki                                                ,6.0
+      zambrowski                                                      ,9.0
+      m. Białystok                                                    ,7.1
+      m. Łomża                                                        ,9.9
+      m. Suwałki                                                      ,6.0
+Woj. POMORSKIE                                                        ,5.5
+      bytowski                                                        ,10.8
+      chojnicki                                                       ,9.7
+      człuchowski                                                     ,11.4
+      gdański                                                         ,4.8
+      kartuski                                                        ,3.5
+      kościerski                                                      ,6.7
+      kwidzyński                                                      ,6.3
+      lęborski                                                        ,8.1
+      malborski                                                       ,12.4
+      nowodworski                                                     ,14.6
+      pucki                                                           ,8.0
+      słupski                                                         ,8.2
+      starogardzki                                                    ,5.8
+      tczewski                                                        ,7.1
+      wejherowski                                                     ,7.0
+      sztumski                                                        ,10.7
+      m. Gdańsk                                                       ,3.0
+      m. Gdynia                                                       ,2.9
+      m. Słupsk                                                       ,4.1
+      m. Sopot                                                        ,2.1
+Woj. ŚLĄSKIE                                                          ,5.1
+      będziński                                                       ,8.7
+      bielski                                                         ,4.0
+      cieszyński                                                      ,5.2
+      częstochowski                                                   ,8.7
+      gliwicki                                                        ,5.6
+      kłobucki                                                        ,8.0
+      lubliniecki                                                     ,7.2
+      mikołowski                                                      ,3.4
+      myszkowski                                                      ,8.6
+      pszczyński                                                      ,3.1
+      raciborski                                                      ,5.1
+      rybnicki                                                        ,6.5
+      tarnogórski                                                     ,6.4
+      bieruńsko-lędziński                                             ,2.8
+      wodzisławski                                                    ,5.8
+      zawierciański                                                   ,9.0
+      żywiecki                                                        ,7.4
+      m. Bielsko-Biała                                                ,2.4
+      m. Bytom                                                        ,10.9
+      m. Chorzów                                                      ,5.8
+      m. Częstochowa                                                  ,4.5
+      m. Dąbrowa Górnicza                                             ,6.0
+      m. Gliwice                                                      ,3.5
+      m. Jastrzębie-Zdrój                                             ,5.0
+      m. Jaworzno                                                     ,5.0
+      m. Katowice                                                     ,2.2
+      m. Mysłowice                                                    ,5.9
+      m. Piekary Śląskie                                              ,7.1
+      m. Ruda Śląska                                                  ,3.9
+      m. Rybnik                                                       ,4.2
+      m. Siemianowice Śląskie                                         ,6.9
+      m. Sosnowiec                                                    ,7.7
+      m. Świętochłowice                                               ,7.5
+      m. Tychy                                                        ,2.8
+      m. Zabrze                                                       ,6.7
+      m. Żory                                                         ,4.5
+Woj. ŚWIĘTOKRZYSKIE                                                   ,9.1
+      buski                                                           ,4.7
+      jędrzejowski                                                    ,8.3
+      kazimierski                                                     ,7.9
+      kielecki                                                        ,11.8
+      konecki                                                         ,11.9
+      opatowski                                                       ,13.5
+      ostrowiecki                                                     ,13.1
+      pińczowski                                                      ,6.8
+      sandomierski                                                    ,7.5
+      skarżyski                                                       ,16.4
+      starachowicki                                                   ,9.1
+      staszowski                                                      ,7.6
+      włoszczowski                                                    ,6.7
+      m. Kielce                                                       ,6.1
+Woj. WARMIŃSKO-MAZURSKIE                                              ,11.8
+      bartoszycki                                                     ,20.2
+      braniewski                                                      ,22.0
+      działdowski                                                     ,16.3
+      elbląski                                                        ,18.1
+      ełcki                                                           ,14.7
+      giżycki                                                         ,11.3
+      iławski                                                         ,5.1
+      kętrzyński                                                      ,20.0
+      lidzbarski                                                      ,16.9
+      mrągowski                                                       ,12.0
+      nidzicki                                                        ,9.5
+      nowomiejski                                                     ,9.1
+      olecki                                                          ,14.4
+      olsztyński                                                      ,13.5
+      ostródzki                                                       ,11.9
+      piski                                                           ,16.0
+      szczycieński                                                    ,11.4
+      gołdapski                                                       ,11.6
+      węgorzewski                                                     ,20.3
+      m. Elbląg                                                       ,9.0
+      m. Olsztyn                                                      ,4.3
+Woj. WIELKOPOLSKIE                                                    ,3.8
+      chodzieski                                                      ,7.6
+      czarnkowsko-trzcianecki                                         ,5.0
+      gnieźnieński                                                    ,6.1
+      gostyński                                                       ,6.1
+      grodziski                                                       ,4.4
+      jarociński                                                      ,5.4
+      kaliski                                                         ,2.8
+      kępiński                                                        ,1.9
+      kolski                                                          ,6.0
+      koniński                                                        ,11.1
+      kościański                                                      ,3.7
+      krotoszyński                                                    ,4.0
+      leszczyński                                                     ,3.3
+      międzychodzki                                                   ,5.0
+      nowotomyski                                                     ,2.5
+      obornicki                                                       ,4.0
+      ostrowski                                                       ,3.2
+      ostrzeszowski                                                   ,4.8
+      pilski                                                          ,5.1
+      pleszewski                                                      ,3.7
+      poznański                                                       ,1.8
+      rawicki                                                         ,4.7
+      słupecki                                                        ,8.4
+      szamotulski                                                     ,3.9
+      średzki                                                         ,6.4
+      śremski                                                         ,2.4
+      turecki                                                         ,4.7
+      wągrowiecki                                                     ,6.9
+      wolsztyński                                                     ,1.8
+      wrzesiński                                                      ,4.1
+      złotowski                                                       ,8.3
+      m. Kalisz                                                       ,3.2
+      m. Konin                                                        ,7.9
+      m. Leszno                                                       ,3.9
+      m. Poznań                                                       ,1.4
+Woj. ZACHODNIOPOMORSKIE                                               ,8.6
+      białogardzki                                                    ,19.1
+      choszczeński                                                    ,17.8
+      drawski                                                         ,15.4
+      goleniowski                                                     ,6.4
+      gryficki                                                        ,11.1
+      gryfiński                                                       ,11.5
+      kamieński                                                       ,15.7
+      kołobrzeski                                                     ,4.7
+      koszaliński                                                     ,14.4
+      myśliborski                                                     ,9.0
+      policki                                                         ,5.8
+      pyrzycki                                                        ,13.9
+      sławieński                                                      ,15.1
+      stargardzki                                                     ,8.9
+      szczecinecki                                                    ,16.5
+      świdwiński                                                      ,16.5
+      wałecki                                                         ,9.6
+      łobeski                                                         ,20.8
+      m. Koszalin                                                     ,5.7
+      m. Szczecin                                                     ,3.2
+      m. Świnoujście                                                  ,5.2

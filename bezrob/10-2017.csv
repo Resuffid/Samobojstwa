@@ -1,0 +1,476 @@
+Województwa,Stopa bezrobocia w %
+POLSKA,6.6
+REGION CENTRALNY,6
+Woj. ŁÓDZKIE,6.8
+PODREGION 15 - ŁÓDZKI,7.7
+łódzki wschodni,7.9
+pabianicki,7.5
+zgierski,7.8
+brzeziński,7.7
+PODREGION 16 - M. ŁÓDŹ,6.5
+m. Łódź,6.5
+PODREGION 17 - PIOTRKOWSKI,6.5
+bełchatowski,5.8
+opoczyński,6.1
+piotrkowski,6.4
+radomszczański,7.4
+tomaszowski,7.3
+m. Piotrków Trybunalski,5.8
+PODREGION 18 - SIERADZKI,6.8
+łaski,8.8
+pajęczański,7.7
+poddębicki,7
+sieradzki,5.9
+wieluński,6.9
+wieruszowski,4.7
+zduńskowolski,7.6
+PODREGION 19 - SKIERNIEWICKI,6.7
+kutnowski,9.4
+łęczycki,7.9
+łowicki,5.8
+rawski,4.2
+skierniewicki,4.1
+m. Skierniewice,6.4
+Woj. MAZOWIECKIE,5.6
+PODREGION 25 - CIECHANOWSKI,10.8
+ciechanowski,10.4
+mławski,7.4
+płoński,10.4
+pułtuski,13.6
+żuromiński,14.8
+PODREGION 26 - OSTROŁĘCKI,10.4
+makowski,17.8
+ostrołęcki,12
+ostrowski,9.9
+przasnyski,9.5
+wyszkowski,5.4
+m. Ostrołęka,10.5
+PODREGION 27 - RADOMSKI,14.8
+białobrzeski,7.9
+kozienicki,10.8
+lipski,10.3
+przysuski,18.8
+radomski,19
+szydłowiecki,25.6
+zwoleński,11.3
+m. Radom,13.2
+PODREGION 28 - M. ST. WARSZAWA,2.1
+m. Warszawa,2.1
+PODREGION 29 - WARSZAWSKI WSCHODNI,7.3
+garwoliński,9.7
+legionowski,7.8
+miński,5.4
+nowodworski,6.2
+otwocki,5
+wołomiński,8.8
+PODREGION 30 - WARSZAWSKI ZACHODNI,4.5
+grodziski,3.5
+grójecki,2.2
+piaseczyński,4.5
+pruszkowski,4.3
+sochaczewski,6.7
+warszawski zachodni,2.4
+żyrardowski,11.2
+PODREGION 70 - PŁOCKI,11.1
+gostyniński,15.4
+płocki,12.6
+sierpecki,16.8
+m. Płock,7.3
+PODREGION 71 - SIEDLECKI,6.2
+łosicki,6.1
+siedlecki,6.2
+sokołowski,6
+węgrowski,7.3
+m. Siedlce,5.6
+REGION POŁUDNIOWY,5.3
+Woj. MAŁOPOLSKIE,5.3
+PODREGION 20 - KRAKOWSKI,4.8
+bocheński,5.2
+krakowski,4.7
+miechowski,5.6
+myślenicki,3.2
+proszowicki,7
+wielicki,5.2
+PODREGION 21 - M. KRAKÓW,2.8
+m. Kraków,2.8
+PODREGION 22 - NOWOSĄDECKI,7.1
+gorlicki,6.4
+limanowski,8.4
+nowosądecki,8.5
+m. Nowy Sącz,4.2
+PODREGION 23 - OŚWIĘCIMSKI,6.9
+chrzanowski,8.8
+olkuski,8.1
+oświęcimski,6.1
+wadowicki,5.4
+PODREGION 24 - TARNOWSKI,7.4
+brzeski,6.6
+dąbrowski,11.6
+tarnowski,7.7
+m. Tarnów,5.7
+PODREGION 69 - NOWOTARSKI,7.2
+nowotarski,6.8
+suski,4.6
+tatrzański,10.8
+Woj. ŚLĄSKIE,5.2
+PODREGION 44 - BIELSKI,4.3
+bielski,4.1
+cieszyński,5.3
+żywiecki,7
+m. Bielsko-Biała,2.5
+PODREGION 45 - BYTOMSKI,8.3
+lubliniecki,6.8
+tarnogórski,6.5
+m. Bytom,11.3
+m. Piekary Śląskie,7.7
+PODREGION 46 - CZĘSTOCHOWSKI,6.2
+częstochowski,8.5
+kłobucki,7.1
+myszkowski,8.3
+m. Częstochowa,4.7
+PODREGION 47 - GLIWICKI,4.9
+gliwicki,5.8
+m. Gliwice,3.7
+m. Zabrze,6.6
+PODREGION 48 - KATOWICKI,3.6
+m. Chorzów,6
+m. Katowice,2.2
+m. Mysłowice,5.9
+m. Ruda Śląska,4
+m. Siemianowice Śląskie,6.9
+m. Świętochłowice,7.8
+PODREGION 49 - RYBNICKI,5.3
+raciborski,5
+rybnicki,7.1
+wodzisławski,6.1
+m. Jastrzębie-Zdrój,5.2
+m. Rybnik,4.5
+m. Żory,4.7
+PODREGION 50 - SOSNOWIECKI,7.7
+będziński,8.9
+zawierciański,9.2
+m. Dąbrowa Górnicza,6.3
+m. Jaworzno,4.8
+m. Sosnowiec,8.2
+PODREGION 51 - TYSKI,3.1
+mikołowski,3.4
+pszczyński,3.3
+bieruńsko-lędziński,2.9
+m. Tychy,2.8
+REGION WSCHODNI,8.8
+Woj. LUBELSKIE,8.5
+PODREGION 9 - BIALSKI,10.2
+bialski,10
+parczewski,7.8
+radzyński,8
+włodawski,15.8
+m. Biała Podlaska,11
+PODREGION 10 - CHEŁMSKO-ZAMOJSKI,9.9
+biłgorajski,5.1
+chełmski,13.4
+hrubieszowski,13.1
+krasnostawski,12.1
+tomaszowski,6.9
+zamojski,10
+m. Chełm,11.9
+m. Zamość,10.5
+PODREGION 11 - LUBELSKI,7.3
+lubartowski,11.5
+lubelski,7.2
+łęczyński,5.7
+świdnicki,10.3
+m. Lublin,6.2
+PODREGION 12 - PUŁAWSKI,7.5
+janowski,8.1
+kraśnicki,10.8
+łukowski,4.6
+opolski,8.7
+puławski,5.7
+rycki,8.9
+Woj. PODKARPACKIE,9.5
+PODREGION 33 - KROŚNIEŃSKI,9.5
+bieszczadzki,14.6
+brzozowski,16.2
+jasielski,10.5
+krośnieński,7.4
+sanocki,7.1
+leski,16.4
+m. Krosno,3.5
+PODREGION 34 - PRZEMYSKI,12.7
+jarosławski,13
+lubaczowski,9.5
+przemyski,14.3
+przeworski,13.1
+m. Przemyśl,12.5
+PODREGION 35 - RZESZOWSKI,8.8
+kolbuszowski,9.5
+łańcucki,10.9
+ropczycko-sędziszowski,12.2
+rzeszowski,9.2
+strzyżowski,14.8
+m. Rzeszów,5.7
+PODREGION 36 - TARNOBRZESKI,8.3
+dębicki,6.9
+leżajski,13.8
+mielecki,5.8
+niżański,17.2
+stalowowolski,5.8
+tarnobrzeski,7.5
+m. Tarnobrzeg,9.4
+Woj. PODLASKIE,8.5
+PODREGION 37 - BIAŁOSTOCKI,8.6
+białostocki,10.3
+sokólski,11.4
+m. Białystok,7.3
+PODREGION 38 - ŁOMŻYŃSKI,8.3
+bielski,5.8
+hajnowski,7.5
+kolneński,14.7
+łomżyński,8.1
+siemiatycki,8
+wysokomazowiecki,5.9
+zambrowski,9
+m. Łomża,9.6
+PODREGION 39 - SUWALSKI,8.7
+augustowski,10
+grajewski,14.4
+moniecki,7.2
+sejneński,12.8
+suwalski,4.7
+m. Suwałki,5.9
+Woj. ŚWIĘTOKRZYSKIE,8.6
+PODREGION 52 - KIELECKI,9.5
+kielecki,11.1
+konecki,11.4
+ostrowiecki,12.1
+skarżyski,15.2
+starachowicki,9.2
+m. Kielce,5.8
+PODREGION 53 - SANDOMIERSKO-JĘDRZEJOWSKI,7.3
+buski,4.1
+jędrzejowski,7.6
+kazimierski,8.3
+opatowski,12.3
+pińczowski,6.4
+sandomierski,7.3
+staszowski,7.2
+włoszczowski,6.7
+REGION PÓŁNOCNO-ZACHODNI,5.3
+Woj. LUBUSKIE,6.5
+PODREGION 13 - GORZOWSKI,6
+gorzowski,4.9
+międzyrzecki,12.9
+słubicki,3
+strzelecko-drezdenecki,11.7
+sulęciński,7.4
+m. Gorzów Wielkopolski,2.8
+PODREGION 14 - ZIELONOGÓRSKI,6.9
+krośnieński,11.1
+nowosolski,10.5
+świebodziński,5.4
+zielonogórski,7.1
+żagański,10.7
+żarski,6
+wschowski,9.1
+m. Zielona Góra,3.5
+Woj. WIELKOPOLSKIE,3.8
+PODREGION 57 - KALISKI,3.4
+jarociński,4.5
+kaliski,2.9
+kępiński,2
+krotoszyński,3.7
+ostrowski,3.2
+ostrzeszowski,4.6
+pleszewski,3.6
+m. Kalisz,3.2
+PODREGION 58 - KONIŃSKI,6.9
+gnieźnieński,6.1
+kolski,6.5
+koniński,11
+słupecki,7.8
+turecki,4.2
+wrzesiński,3.6
+m. Konin,8.2
+PODREGION 59 - LESZCZYŃSKI,3.8
+gostyński,5.9
+grodziski,4.3
+kościański,3.6
+leszczyński,3.3
+międzychodzki,4.6
+nowotomyski,2.4
+rawicki,4.8
+wolsztyński,1.8
+m. Leszno,3.9
+PODREGION 60 - PILSKI,6.4
+chodzieski,8
+czarnkowsko-trzcianecki,5
+pilski,5.5
+wągrowiecki,6.7
+złotowski,8.2
+PODREGION 61 - POZNAŃSKI,2.7
+obornicki,4
+poznański,1.8
+szamotulski,4.1
+średzki,6.5
+śremski,2.6
+PODREGION 62 - M. POZNAŃ,1.5
+m. Poznań,1.5
+Woj. ZACHODNIOPOMORSKIE,8.6
+PODREGION 63 - KOSZALIŃSKI,9.3
+białogardzki,19.2
+kołobrzeski,4.8
+koszaliński,13.5
+sławieński,14.4
+m. Koszalin,5.4
+PODREGION 64 - SZCZECINECKO-PYRZYCKI,14.2
+choszczeński,16.9
+drawski,16.6
+myśliborski,8.5
+pyrzycki,13.2
+szczecinecki,16.3
+świdwiński,15.6
+wałecki,8.7
+łobeski,20.2
+PODREGION 65 - M. SZCZECIN,3.4
+m. Szczecin,3.4
+PODREGION 66 - SZCZECIŃSKI,8.9
+goleniowski,6.9
+gryficki,10.7
+gryfiński,11.7
+kamieński,15.2
+policki,6.3
+stargardzki,9
+m. Świnoujście,4.6
+REGION POŁUDNIOWO-ZACHODNI,6
+Woj. DOLNOŚLĄSKIE,5.8
+PODREGION 1 - JELENIOGÓRSKI,7.6
+bolesławiecki,4.2
+jaworski,13
+jeleniogórski,9
+kamiennogórski,7.1
+lubański,9
+lwówecki,13
+zgorzelecki,5.6
+złotoryjski,15.7
+m. Jelenia Góra,3.2
+PODREGION 2 - LEGNICKO-GŁOGOWSKI,7.1
+głogowski,9.4
+górowski,15.7
+legnicki,11.8
+lubiński,5
+polkowicki,4.5
+m. Legnica,5.7
+PODREGION 3 - WAŁBRZYSKI,9.2
+dzierżoniowski,7.8
+kłodzki,12.6
+świdnicki,6.6
+wałbrzyski,13.6
+ząbkowicki,11.1
+m. Wałbrzych,7.4
+PODREGION 4 - WROCŁAWSKI,5.9
+milicki,7.7
+oleśnicki,6.6
+oławski,5.9
+strzeliński,11
+średzki,6.2
+trzebnicki,6.6
+wołowski,12.2
+wrocławski,2.2
+PODREGION 5 - M. WROCŁAW,2.2
+m. Wrocław,2.2
+Woj. OPOLSKIE,6.9
+PODREGION 31 - NYSKI,9.4
+brzeski,10.1
+głubczycki,10.7
+namysłowski,9.6
+nyski,8.4
+prudnicki,9.2
+PODREGION 32 - OPOLSKI,5.8
+kędzierzyńsko-kozielski,8.3
+kluczborski,7.7
+krapkowicki,5.4
+oleski,4.9
+opolski *,7
+strzelecki,4.9
+m. Opole *,4.1
+REGION PÓŁNOCNY,8.5
+Woj. KUJAWSKO-POMORSKIE,9.8
+PODREGION 6 - BYDGOSKO-TORUŃSKI,5.4
+bydgoski,6.5
+toruński,12
+m. Bydgoszcz,4
+m. Toruń,5.2
+PODREGION 7 - GRUDZIĄDZKI,10.9
+brodnicki,7.9
+chełmiński,13.3
+golubsko-dobrzyński,11.1
+grudziądzki,13.6
+rypiński,10.7
+wąbrzeski,13.8
+m. Grudziądz,10.4
+PODREGION 8 - WŁOCŁAWSKI,15.5
+aleksandrowski,13.4
+lipnowski,17.1
+radziejowski,18
+włocławski,17.8
+m. Włocławek,13.1
+PODREGION 67 - INOWROCŁAWSKI,13.3
+inowrocławski,14.6
+mogileński,11.4
+nakielski,12.7
+żniński,12.1
+PODREGION 68 - ŚWIECKI,10.4
+sępoleński,13.1
+świecki,8.2
+tucholski,12.4
+Woj. POMORSKIE,5.5
+PODREGION 40 - GDAŃSKI,6.2
+gdański,4.6
+kartuski,3.9
+nowodworski,12.8
+pucki,8.1
+wejherowski,7.1
+PODREGION 41 - SŁUPSKI,7.6
+bytowski,10.6
+lęborski,7.6
+słupski,8.5
+m. Słupsk,4.4
+PODREGION 42 - STAROGARDZKI,7.3
+kwidzyński,6.3
+malborski,12.7
+starogardzki,5.5
+tczewski,6.7
+sztumski,10.6
+PODREGION 43 - TRÓJMIEJSKI,2.9
+m. Gdańsk,3
+m. Gdynia,2.9
+m. Sopot,2
+PODREGION 72 - CHOJNICKI,9.4
+chojnicki,9.9
+człuchowski,12.4
+kościerski,6.6
+Woj. WARMIŃSKO-MAZURSKIE,11.6
+PODREGION 54 - ELBLĄSKI,11.7
+braniewski,21.1
+działdowski,16.4
+elbląski,17.8
+iławski,4.9
+nowomiejski,8.8
+ostródzki,12.3
+m. Elbląg,9.4
+PODREGION 55 - EŁCKI,13.8
+ełcki,14.3
+giżycki,10.2
+olecki,13.7
+piski,16.5
+gołdapski,11
+węgorzewski,18.4
+PODREGION 56 - OLSZTYŃSKI,10.5
+bartoszycki,20.5
+kętrzyński,17.9
+lidzbarski,16.8
+mrągowski,11.2
+nidzicki,8.5
+olsztyński,13.4
+szczycieński,11.6
+m. Olsztyn,4.5

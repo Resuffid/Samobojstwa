@@ -1,0 +1,476 @@
+Województwa,Stopa bezrobocia w %
+POLSKA                                                                ,6.8
+REGION CENTRALNY,6.3
+Woj. ŁÓDZKIE                                                          ,7.1
+PODREGION 15 - ŁÓDZKI                                                 ,8.2
+      łódzki wschodni                                                 ,8.4
+      pabianicki                                                      ,8
+      zgierski                                                        ,8.4
+      brzeziński                                                      ,8.1
+PODREGION 16 - M. ŁÓDŹ                                                ,6.9
+      m. Łódź                                                         ,6.9
+PODREGION 17 - PIOTRKOWSKI                                            ,6.9
+      bełchatowski                                                    ,6.1
+      opoczyński                                                      ,6
+      piotrkowski                                                     ,6.7
+      radomszczański                                                  ,7.9
+      tomaszowski                                                     ,7.7
+      m. Piotrków Trybunalski                                         ,6.5
+PODREGION 18 - SIERADZKI                                              ,7.1
+      łaski                                                           ,9.5
+      pajęczański                                                     ,7.8
+      poddębicki                                                      ,7.1
+      sieradzki                                                       ,6.1
+      wieluński                                                       ,7.2
+      wieruszowski                                                    ,5
+      zduńskowolski                                                   ,7.8
+PODREGION 19 - SKIERNIEWICKI                                          ,7.1
+      kutnowski                                                       ,9.9
+      łęczycki                                                        ,8.2
+      łowicki                                                         ,6.1
+      rawski                                                          ,4.4
+      skierniewicki                                                   ,4.3
+      m. Skierniewice                                                 ,6.9
+Woj. MAZOWIECKIE                                                      ,5.9
+PODREGION 25 - CIECHANOWSKI                                           ,11.3
+      ciechanowski                                                    ,11
+      mławski                                                         ,7.7
+      płoński                                                         ,10.9
+      pułtuski                                                        ,14.5
+      żuromiński                                                      ,15.4
+PODREGION 26 - OSTROŁĘCKI                                             ,10.8
+      makowski                                                        ,18.1
+      ostrołęcki                                                      ,12.3
+      ostrowski                                                       ,10.4
+      przasnyski                                                      ,10
+      wyszkowski                                                      ,5.4
+      m. Ostrołęka                                                    ,11
+PODREGION 27 - RADOMSKI                                               ,15.3
+      białobrzeski                                                    ,8.2
+      kozienicki                                                      ,11.5
+      lipski                                                          ,10.7
+      przysuski                                                       ,19.6
+      radomski                                                        ,19.6
+      szydłowiecki                                                    ,25.9
+      zwoleński                                                       ,11.7
+      m. Radom                                                        ,13.9
+PODREGION 28 - M. ST. WARSZAWA                                        ,2.3
+      m. Warszawa                                                     ,2.3
+PODREGION 29 - WARSZAWSKI WSCHODNI                                    ,7.7
+      garwoliński                                                     ,10
+      legionowski                                                     ,8.3
+      miński                                                          ,5.9
+      nowodworski                                                     ,6.4
+      otwocki                                                         ,5.2
+      wołomiński                                                      ,9.4
+PODREGION 30 - WARSZAWSKI ZACHODNI                                    ,4.7
+      grodziski                                                       ,3.7
+      grójecki                                                        ,2.4
+      piaseczyński                                                    ,4.8
+      pruszkowski                                                     ,4.6
+      sochaczewski                                                    ,6.9
+      warszawski zachodni                                             ,2.7
+      żyrardowski                                                     ,11.7
+PODREGION 70 - PŁOCKI                                                 ,11.4
+      gostyniński                                                     ,15.8
+      płocki                                                          ,12.7
+      sierpecki                                                       ,17.2
+      m. Płock                                                        ,7.6
+PODREGION 71 - SIEDLECKI                                              ,6.6
+      łosicki                                                         ,6.1
+      siedlecki                                                       ,6.6
+      sokołowski                                                      ,6.2
+      węgrowski                                                       ,8.1
+      m. Siedlce                                                      ,6
+REGION POŁUDNIOWY,5.5
+Woj. MAŁOPOLSKIE                                                      ,5.5
+PODREGION 20 - KRAKOWSKI                                              ,5.1
+      bocheński                                                       ,5.4
+      krakowski                                                       ,4.9
+      miechowski                                                      ,5.7
+      myślenicki                                                      ,3.5
+      proszowicki                                                     ,7.3
+      wielicki                                                        ,5.6
+PODREGION 21 - M. KRAKÓW                                              ,3
+      m. Kraków                                                       ,3
+PODREGION 22 - NOWOSĄDECKI                                            ,7.4
+      gorlicki                                                        ,6.6
+      limanowski                                                      ,8.8
+      nowosądecki                                                     ,8.7
+      m. Nowy Sącz                                                    ,4.4
+PODREGION 23 - OŚWIĘCIMSKI                                            ,7.2
+      chrzanowski                                                     ,9.1
+      olkuski                                                         ,8.3
+      oświęcimski                                                     ,6.3
+      wadowicki                                                       ,5.7
+PODREGION 24 - TARNOWSKI                                              ,7.6
+      brzeski                                                         ,6.7
+      dąbrowski                                                       ,11.9
+      tarnowski                                                       ,7.8
+      m. Tarnów                                                       ,6.1
+PODREGION 69 - NOWOTARSKI                                             ,7.3
+      nowotarski                                                      ,7.2
+      suski                                                           ,4.6
+      tatrzański                                                      ,10.7
+Woj. ŚLĄSKIE                                                          ,5.5
+PODREGION 44 - BIELSKI                                                ,4.5
+      bielski                                                         ,4.2
+      cieszyński                                                      ,5.5
+      żywiecki                                                        ,7.2
+      m. Bielsko-Biała                                                ,2.7
+PODREGION 45 - BYTOMSKI                                               ,8.6
+      lubliniecki                                                     ,7
+      tarnogórski                                                     ,6.8
+      m. Bytom                                                        ,11.6
+      m. Piekary Śląskie                                              ,8
+PODREGION 46 - CZĘSTOCHOWSKI                                          ,6.7
+      częstochowski                                                   ,8.9
+      kłobucki                                                        ,7.5
+      myszkowski                                                      ,9
+      m. Częstochowa                                                  ,5
+PODREGION 47 - GLIWICKI                                               ,5.2
+      gliwicki                                                        ,6.2
+      m. Gliwice                                                      ,3.9
+      m. Zabrze                                                       ,6.9
+PODREGION 48 - KATOWICKI                                              ,3.8
+      m. Chorzów                                                      ,6.3
+      m. Katowice                                                     ,2.3
+      m. Mysłowice                                                    ,6
+      m. Ruda Śląska                                                  ,4.3
+      m. Siemianowice Śląskie                                         ,7.3
+      m. Świętochłowice                                               ,8.3
+PODREGION 49 - RYBNICKI                                               ,5.6
+      raciborski                                                      ,5.3
+      rybnicki                                                        ,7.4
+      wodzisławski                                                    ,6.5
+      m. Jastrzębie-Zdrój                                             ,5.5
+      m. Rybnik                                                       ,4.8
+      m. Żory                                                         ,5.2
+PODREGION 50 - SOSNOWIECKI                                            ,8
+      będziński                                                       ,9.2
+      zawierciański                                                   ,9.7
+      m. Dąbrowa Górnicza                                             ,6.7
+      m. Jaworzno                                                     ,5.1
+      m. Sosnowiec                                                    ,8.5
+PODREGION 51 - TYSKI                                                  ,3.3
+      mikołowski                                                      ,3.6
+      pszczyński                                                      ,3.5
+      bieruńsko-lędziński                                             ,3.1
+      m. Tychy                                                        ,3
+REGION WSCHODNI,9.1
+Woj. LUBELSKIE                                                        ,8.7
+PODREGION 9 - BIALSKI                                                 ,10.5
+      bialski                                                         ,10.4
+      parczewski                                                      ,8.1
+      radzyński                                                       ,8.2
+      włodawski                                                       ,16.1
+      m. Biała Podlaska                                               ,11.4
+PODREGION 10 - CHEŁMSKO-ZAMOJSKI                                      ,10
+      biłgorajski                                                     ,5.2
+      chełmski                                                        ,13.5
+      hrubieszowski                                                   ,13.3
+      krasnostawski                                                   ,12.2
+      tomaszowski                                                     ,6.8
+      zamojski                                                        ,10.2
+      m. Chełm                                                        ,12.1
+      m. Zamość                                                       ,10.8
+PODREGION 11 - LUBELSKI                                               ,7.6
+      lubartowski                                                     ,11.6
+      lubelski                                                        ,7.5
+      łęczyński                                                       ,6
+      świdnicki                                                       ,10.5
+      m. Lublin                                                       ,6.5
+PODREGION 12 - PUŁAWSKI                                               ,7.6
+      janowski                                                        ,8.2
+      kraśnicki                                                       ,10.9
+      łukowski                                                        ,4.7
+      opolski                                                         ,8.8
+      puławski                                                        ,5.7
+      rycki                                                           ,9.4
+Woj. PODKARPACKIE                                                     ,9.7
+PODREGION 33 - KROŚNIEŃSKI                                            ,9.7
+      bieszczadzki                                                    ,14.9
+      brzozowski                                                      ,16.3
+      jasielski                                                       ,10.6
+      krośnieński                                                     ,7.8
+      sanocki                                                         ,7.4
+      leski                                                           ,16.4
+      m. Krosno                                                       ,3.7
+PODREGION 34 - PRZEMYSKI                                              ,12.8
+      jarosławski                                                     ,13.4
+      lubaczowski                                                     ,9.4
+      przemyski                                                       ,14.4
+      przeworski                                                      ,13.1
+      m. Przemyśl                                                     ,12.8
+PODREGION 35 - RZESZOWSKI                                             ,8.9
+      kolbuszowski                                                    ,9.6
+      łańcucki                                                        ,11.2
+      ropczycko-sędziszowski                                          ,12.1
+      rzeszowski                                                      ,9.5
+      strzyżowski                                                     ,15
+      m. Rzeszów                                                      ,5.9
+PODREGION 36 - TARNOBRZESKI                                           ,8.5
+      dębicki                                                         ,7.1
+      leżajski                                                        ,13.4
+      mielecki                                                        ,6.1
+      niżański                                                        ,17.4
+      stalowowolski                                                   ,5.8
+      tarnobrzeski                                                    ,7.9
+      m. Tarnobrzeg                                                   ,9.8
+Woj. PODLASKIE                                                        ,8.9
+PODREGION 37 - BIAŁOSTOCKI                                            ,9
+      białostocki                                                     ,10.7
+      sokólski                                                        ,11.8
+      m. Białystok                                                    ,7.7
+PODREGION 38 - ŁOMŻYŃSKI                                              ,8.6
+      bielski                                                         ,6.1
+      hajnowski                                                       ,7.9
+      kolneński                                                       ,15.2
+      łomżyński                                                       ,8.4
+      siemiatycki                                                     ,8.2
+      wysokomazowiecki                                                ,6.1
+      zambrowski                                                      ,9.4
+      m. Łomża                                                        ,10
+PODREGION 39 - SUWALSKI                                               ,9.1
+      augustowski                                                     ,10.3
+      grajewski                                                       ,15.1
+      moniecki                                                        ,7.5
+      sejneński                                                       ,13.4
+      suwalski                                                        ,4.8
+      m. Suwałki                                                      ,6.3
+Woj. ŚWIĘTOKRZYSKIE                                                   ,8.9
+PODREGION 52 - KIELECKI                                               ,9.8
+      kielecki                                                        ,11.1
+      konecki                                                         ,12.1
+      ostrowiecki                                                     ,12.5
+      skarżyski                                                       ,16.1
+      starachowicki                                                   ,9.5
+      m. Kielce                                                       ,6.1
+PODREGION 53 - SANDOMIERSKO-JĘDRZEJOWSKI                              ,7.5
+      buski                                                           ,4.1
+      jędrzejowski                                                    ,7.9
+      kazimierski                                                     ,8.6
+      opatowski                                                       ,12.9
+      pińczowski                                                      ,6.7
+      sandomierski                                                    ,7.4
+      staszowski                                                      ,7.5
+      włoszczowski                                                    ,6.8
+REGION PÓŁNOCNO-ZACHODNI,5.6
+Woj. LUBUSKIE                                                         ,6.8
+PODREGION 13 - GORZOWSKI                                              ,6.3
+      gorzowski                                                       ,5.2
+      międzyrzecki                                                    ,13.3
+      słubicki                                                        ,3
+      strzelecko-drezdenecki                                          ,12.4
+      sulęciński                                                      ,7.8
+      m. Gorzów Wielkopolski                                          ,3.1
+PODREGION 14 - ZIELONOGÓRSKI                                          ,7.1
+      krośnieński                                                     ,11.4
+      nowosolski                                                      ,10.8
+      świebodziński                                                   ,5.5
+      zielonogórski                                                   ,7.4
+      żagański                                                        ,11.1
+      żarski                                                          ,6.4
+      wschowski                                                       ,9.4
+      m. Zielona Góra                                                 ,3.6
+Woj. WIELKOPOLSKIE                                                    ,4
+PODREGION 57 - KALISKI                                                ,3.5
+      jarociński                                                      ,5
+      kaliski                                                         ,3.1
+      kępiński                                                        ,2.1
+      krotoszyński                                                    ,3.7
+      ostrowski                                                       ,3.5
+      ostrzeszowski                                                   ,4.9
+      pleszewski                                                      ,3.5
+      m. Kalisz                                                       ,3.3
+PODREGION 58 - KONIŃSKI                                               ,7.2
+      gnieźnieński                                                    ,6.3
+      kolski                                                          ,7.2
+      koniński                                                        ,11.4
+      słupecki                                                        ,8.1
+      turecki                                                         ,4.5
+      wrzesiński                                                      ,3.9
+      m. Konin                                                        ,8.6
+PODREGION 59 - LESZCZYŃSKI                                            ,4
+      gostyński                                                       ,6
+      grodziski                                                       ,4.5
+      kościański                                                      ,3.8
+      leszczyński                                                     ,3.4
+      międzychodzki                                                   ,5
+      nowotomyski                                                     ,2.6
+      rawicki                                                         ,5
+      wolsztyński                                                     ,2.1
+      m. Leszno                                                       ,4.2
+PODREGION 60 - PILSKI                                                 ,6.8
+      chodzieski                                                      ,8.4
+      czarnkowsko-trzcianecki                                         ,5.4
+      pilski                                                          ,5.9
+      wągrowiecki                                                     ,7.2
+      złotowski                                                       ,8.6
+PODREGION 61 - POZNAŃSKI                                              ,2.9
+      obornicki                                                       ,4.1
+      poznański                                                       ,1.9
+      szamotulski                                                     ,4.4
+      średzki                                                         ,6.7
+      śremski                                                         ,2.8
+PODREGION 62 - M. POZNAŃ                                              ,1.6
+      m. Poznań                                                       ,1.6
+Woj. ZACHODNIOPOMORSKIE                                               ,8.9
+PODREGION 63 - KOSZALIŃSKI                                            ,9.6
+      białogardzki                                                    ,19.8
+      kołobrzeski                                                     ,4.8
+      koszaliński                                                     ,13.8
+      sławieński                                                      ,14.7
+      m. Koszalin                                                     ,5.9
+PODREGION 64 - SZCZECINECKO-PYRZYCKI                                  ,14.6
+      choszczeński                                                    ,17.3
+      drawski                                                         ,16.9
+      myśliborski                                                     ,9
+      pyrzycki                                                        ,13.8
+      szczecinecki                                                    ,16.7
+      świdwiński                                                      ,15.8
+      wałecki                                                         ,9
+      łobeski                                                         ,20.9
+PODREGION 65 - M. SZCZECIN                                            ,3.8
+      m. Szczecin                                                     ,3.8
+PODREGION 66 - SZCZECIŃSKI                                            ,9.2
+      goleniowski                                                     ,7.3
+      gryficki                                                        ,10.3
+      gryfiński                                                       ,12.2
+      kamieński                                                       ,15.1
+      policki                                                         ,6.8
+      stargardzki                                                     ,9.5
+      m. Świnoujście                                                  ,4.6
+REGION POŁUDNIOWO-ZACHODNI,6.4
+Woj. DOLNOŚLĄSKIE                                                     ,6.1
+PODREGION 1 - JELENIOGÓRSKI                                           ,8.1
+      bolesławiecki                                                   ,4.8
+      jaworski                                                        ,13.8
+      jeleniogórski                                                   ,9.3
+      kamiennogórski                                                  ,7.6
+      lubański                                                        ,9.4
+      lwówecki                                                        ,14
+      zgorzelecki                                                     ,6.1
+      złotoryjski                                                     ,16.2
+      m. Jelenia Góra                                                 ,3.3
+PODREGION 2 - LEGNICKO-GŁOGOWSKI                                      ,7.4
+      głogowski                                                       ,9.9
+      górowski                                                        ,15.9
+      legnicki                                                        ,12.3
+      lubiński                                                        ,5.3
+      polkowicki                                                      ,4.6
+      m. Legnica                                                      ,6.1
+PODREGION 3 - WAŁBRZYSKI                                              ,9.7
+      dzierżoniowski                                                  ,8
+      kłodzki                                                         ,13.3
+      świdnicki                                                       ,6.9
+      wałbrzyski                                                      ,14.9
+      ząbkowicki                                                      ,11.9
+      m. Wałbrzych                                                    ,7.9
+PODREGION 4 - WROCŁAWSKI                                              ,6.2
+      milicki                                                         ,7.8
+      oleśnicki                                                       ,6.9
+      oławski                                                         ,6.2
+      strzeliński                                                     ,11.3
+      średzki                                                         ,6.4
+      trzebnicki                                                      ,7
+      wołowski                                                        ,12.5
+      wrocławski                                                      ,2.3
+PODREGION 5 - M. WROCŁAW                                              ,2.4
+      m. Wrocław                                                      ,2.4
+Woj. OPOLSKIE                                                ,7.4
+PODREGION 31 - NYSKI                                                  ,10.1
+      brzeski                                                         ,10.9
+      głubczycki                                                      ,11.1
+      namysłowski                                                     ,10
+      nyski                                                           ,9.3
+      prudnicki                                                       ,9.8
+PODREGION 32 - OPOLSKI                                                ,6.1
+      kędzierzyńsko-kozielski                                         ,8.9
+      kluczborski                                                     ,7.8
+      krapkowicki                                                     ,5.6
+      oleski                                                          ,5.1
+      opolski *                                                        ,7.5
+      strzelecki                                                      ,5.1
+      m. Opole *                                             ,4.5
+REGION PÓŁNOCNY,8.7
+Woj. KUJAWSKO-POMORSKIE                                               ,10.1
+PODREGION 6 - BYDGOSKO-TORUŃSKI                                       ,5.7
+      bydgoski                                                        ,6.6
+      toruński                                                        ,12.6
+      m. Bydgoszcz                                                    ,4.2
+      m. Toruń                                                        ,5.4
+PODREGION 7 - GRUDZIĄDZKI                                             ,11.4
+      brodnicki                                                       ,7.8
+      chełmiński                                                      ,14.3
+      golubsko-dobrzyński                                             ,11.5
+      grudziądzki                                                     ,14.2
+      rypiński                                                        ,11
+      wąbrzeski                                                       ,14.3
+      m. Grudziądz                                                    ,10.9
+PODREGION 8 - WŁOCŁAWSKI                                              ,15.6
+      aleksandrowski                                                  ,13.2
+      lipnowski                                                       ,17.3
+      radziejowski                                                    ,18.2
+      włocławski                                                      ,18
+      m. Włocławek                                                    ,13.4
+PODREGION 67 - INOWROCŁAWSKI                                          ,13.7
+      inowrocławski                                                   ,14.9
+      mogileński                                                      ,11.9
+      nakielski                                                       ,13.2
+      żniński                                                         ,12.7
+PODREGION 68 - ŚWIECKI                                                ,10.6
+      sępoleński                                                      ,13.3
+      świecki                                                         ,8.5
+      tucholski                                                       ,12.7
+Woj. POMORSKIE                                                        ,5.7
+PODREGION 40 - GDAŃSKI                                                ,6.1
+      gdański                                                         ,4.9
+      kartuski                                                        ,4
+      nowodworski                                                     ,11.6
+      pucki                                                           ,7.6
+      wejherowski                                                     ,7.1
+PODREGION 41 - SŁUPSKI                                                ,7.7
+      bytowski                                                        ,10.8
+      lęborski                                                        ,7.4
+      słupski                                                         ,8.6
+      m. Słupsk                                                       ,4.6
+PODREGION 42 - STAROGARDZKI                                           ,7.6
+      kwidzyński                                                      ,6.5
+      malborski                                                       ,13.1
+      starogardzki                                                    ,5.9
+      tczewski                                                        ,7
+      sztumski                                                        ,11.3
+PODREGION 43 - TRÓJMIEJSKI                                            ,3.2
+      m. Gdańsk                                                       ,3.3
+      m. Gdynia                                                       ,3.1
+      m. Sopot                                                        ,2.2
+PODREGION 72 - CHOJNICKI                                              ,9.7
+      chojnicki                                                       ,10.3
+      człuchowski                                                     ,12.9
+      kościerski                                                      ,6.6
+Woj. WARMIŃSKO-MAZURSKIE                                              ,11.8
+PODREGION 54 - ELBLĄSKI                                               ,12.1
+      braniewski                                                      ,21.6
+      działdowski                                                     ,16.7
+      elbląski                                                        ,18.5
+      iławski                                                         ,5
+      nowomiejski                                                     ,9.6
+      ostródzki                                                       ,12.8
+      m. Elbląg                                                       ,9.8
+PODREGION 55 - EŁCKI                                                  ,14
+      ełcki                                                           ,14.6
+      giżycki                                                         ,10.2
+      olecki                                                          ,14.1
+      piski                                                           ,16.6
+      gołdapski                                                       ,11.9
+      węgorzewski                                                     ,17.8
+PODREGION 56 - OLSZTYŃSKI                                             ,10.8
+      bartoszycki                                                     ,20.7
+      kętrzyński                                                      ,18.2
+      lidzbarski                                                      ,17.5
+      mrągowski                                                       ,10.6
+      nidzicki                                                        ,8.8
+      olsztyński                                                      ,13.7
+      szczycieński                                                    ,11.8
+      m. Olsztyn                                                      ,4.7
